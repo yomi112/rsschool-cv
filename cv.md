@@ -5,8 +5,8 @@
 * **Address:** Fryazino, Moscow region
 * **Phone:** +7 999 969 34 46
 * **E-mail:** pauleremin93@gmail.com
-* **Telegram:** (Telegram)[https://t.me/payomi]
-* **GitHub:** (Git)[https://github.com/yomi112]
+* **Telegram:** [Telegram](https://t.me/payomi)
+* **GitHub:** [Git](https://github.com/yomi112)
 * **Diskord:** yomi112#9309
 
 ## About myself:
