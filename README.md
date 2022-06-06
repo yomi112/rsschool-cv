@@ -1,1 +1,1 @@
-# rsschool-cv
+https://yomi112.github.io/rsschool-cv/cv
